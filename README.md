@@ -5,4 +5,4 @@ Pages in this branch can be served as html by accessing them from ``https://ubiq
 
 Example:
   - Serve Heroku error page: 
-    - ``https://ubiqua.github.io/public-static-pages/heroku/error_page.html``
+    - [https://ubiqua.github.io/public-static-pages/heroku/error_page.html](https://ubiqua.github.io/public-static-pages/heroku/error_page.html)
